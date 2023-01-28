@@ -71,3 +71,44 @@ h1{
     .bot div{
         margin-top: 30px;
     }
+    .plan{
+        padding: 450px;
+        text-align: center;
+        color: gray;
+    }
+    .paln-color{
+        color: black;
+        text-align: center;
+        font-size: 40px;
+
+    }
+    .idia{
+    display: flex;
+    flex-direction: row;
+    margin-right: 80px;
+    margin-left: 80px;
+    height: 400px;
+    padding-top: 0%
+    }
+    .food{
+        background-color: aqua;
+        width: 400px;
+        height: 300px;
+        padding: 10px;
+        margin: 10px;
+    }
+    .family{
+        background-color: aqua;
+        width: 400px;
+        height: 300px;
+        padding: 10px;
+        margin: 10px;
+    }
+    .Education{ 
+        background-color: aqua;
+        width: 400px;
+        height: 300px;
+        padding: 10px;
+        margin: 10px;
+
+    }
